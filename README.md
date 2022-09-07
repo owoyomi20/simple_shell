@@ -58,8 +58,8 @@ This repository contains the source codes for a Simple UNIX command line interpr
 
 ## Authors
 
-- Samson Tedla - [E-mail](samitedla23@gmail.com)
-- Yohannes Zewdu - [E-mail](yohannes.z251@gmail.com)
+- Owoyomi Taiwo Adeyemi - [E-mail](Owoyomi Taiwo Adeyemi)
+- Titus Ojediran - [E-mail](????@gmail.com)
 
 [Back To The Top](#simple-shell-project-in-c)
 
