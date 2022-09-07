@@ -58,7 +58,7 @@ This repository contains the source codes for a Simple UNIX command line interpr
 
 ## Authors
 
-- Owoyomi Taiwo Adeyemi - [E-mail](Owoyomi Taiwo Adeyemi)
+- Owoyomi Taiwo Adeyemi - [E-mail](Owoyomitaiwoadeyemi@gmail.com)
 - Titus Ojediran - [E-mail](????@gmail.com)
 
 [Back To The Top](#simple-shell-project-in-c)
